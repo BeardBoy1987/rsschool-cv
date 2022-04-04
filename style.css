@@ -1,0 +1,9 @@
+header {
+  display: flex;
+}
+
+.heading {
+  margin: 0 auto;
+  font-size: 36px;
+  color: gold;
+}
